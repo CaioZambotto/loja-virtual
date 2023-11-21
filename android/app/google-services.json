@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89172399587",
+    "project_id": "loja-virtual-d21c3",
+    "storage_bucket": "loja-virtual-d21c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89172399587:android:873bfd09d226acc526fcd6",
+        "android_client_info": {
+          "package_name": "br.com.sistemamegawin.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89172399587-0hc5fqsj2k01kr84atgtmor8m71lbasg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBstgxmI3l_zNLD88-2Dh25QCQjCDlT5h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89172399587-0hc5fqsj2k01kr84atgtmor8m71lbasg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
